@@ -31,6 +31,11 @@
 
 ### 02 NumPy(进行中)
 
+| 课 | 主题 | 笔记 |
+|---|---|---|
+| 7 | ndarray 基础(创建、dtype、shape、reshape) | [07-ndarray-basics.md](02-numpy/07-ndarray-basics.md) |
+| 8 | 索引、切片、布尔索引 | [08-indexing.md](02-numpy/08-indexing.md) |
+
 ### 03 PyTorch(计划中)
 
 ## 笔记格式说明
